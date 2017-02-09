@@ -1,0 +1,1 @@
+segundo ejercicio, los pasos eran ir al perfil en github, fork, clonar, y ya terminator
